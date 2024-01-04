@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TranLuan2907/vehicle-management">
-    <img src="./images/mercedes.svg" alt="Logo" width="80" height="80">
+    <img src="./images/republicofgamers.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">User Management System</h3>
